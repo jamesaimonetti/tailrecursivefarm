@@ -234,18 +234,18 @@ THEME_CONFIG = {
 #     )
 
 POSTS = (
-    ("posts/*.rst",  "posts", "post.tmpl"),
-    ("posts/*.md",   "posts", "post.tmpl"),
-    ("posts/*.txt",  "posts", "post.tmpl"),
-    ("posts/*.html", "posts", "post.tmpl"),
-    ("posts/*.org",  "posts", "post.tmpl"),
+    ("posts/*.rst",  "blog", "post.tmpl"),
+    ("posts/*.md",   "blog", "post.tmpl"),
+    ("posts/*.txt",  "blog", "post.tmpl"),
+    ("posts/*.html", "blog", "post.tmpl"),
+    ("posts/*.org",  "blog", "post.tmpl"),
 )
 PAGES = (
-    ("pages/*.rst",  "pages", "page.tmpl"),
-    ("pages/*.md",   "pages", "page.tmpl"),
-    ("pages/*.txt",  "pages", "page.tmpl"),
-    ("pages/*.html", "pages", "page.tmpl"),
-    ("pages/*.org",  "pages", "page.tmpl"),
+    ("pages/*.rst",  "", "page.tmpl"),
+    ("pages/*.md",   "", "page.tmpl"),
+    ("pages/*.txt",  "", "page.tmpl"),
+    ("pages/*.html", "", "page.tmpl"),
+    ("pages/*.org",  "", "page.tmpl"),
 )
 
 
@@ -1407,3 +1407,10 @@ GLOBAL_CONTEXT = {}
 # GLOBAL_CONTEXT as parameter when the template is about to be
 # rendered
 GLOBAL_CONTEXT_FILLER = []
+
+# Include extra CSS files
+EXTRA_HEAD_DATA = """
+<script src="/assets/js/ga.js" type="text/javascript"/>
+<link rel="stylesheet" type="text/css" href="/assets/css/org.css"/>
+<link rel="stylesheet" type="text/css" href="/assets/css/custom.css"/>
+"""
