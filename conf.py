@@ -140,9 +140,11 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+        ("/", "Home"),
+        ("/blog/", "Blog")
+        # ("/blog/archive.html", "Archive"),
+        # ("/blog/categories/", "Tags"),
+        # ("/blog/rss.xml", "RSS feed"),
     ),
 }
 
@@ -154,7 +156,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "bootblog4"
+THEME = "blogtxt"
 
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
