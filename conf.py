@@ -16,7 +16,7 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "James Aimonetti and Christina Day"  # (translatable)
+BLOG_AUTHOR = "James Aimonetti"  # (translatable)
 BLOG_TITLE = "Tail Recursive Farm"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
@@ -141,11 +141,9 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Home"),
-        ("/blog/", "Blog")
-        # ("/blog/archive.html", "Archive"),
-        # ("/blog/categories/", "Tags"),
-        # ("/blog/rss.xml", "RSS feed"),
-    ),
+        ((("/blog", "Most Recent"),
+          ("/blog/arhicve.html", "Archive")), "Blog"),
+        ),
 }
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
@@ -156,7 +154,7 @@ NAVIGATION_ALT_LINKS = {
 }
 
 # Name of the theme to use.
-THEME = "blogtxt"
+THEME = "bootblog4"
 
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
