@@ -1,2 +1,9 @@
-* Tail Recursive Farm
-Run-forever farming
+* Tail Recursive Farm Site
+
+Setup Nikola:
+
+#+begin_src bash
+python -m pip install -U pip setuptools wheel "Nikola[extras]" "Nikola[plugins]"
+nikola init tailrecursivefarm/ --demo
+nikola plugin -i orgmode
+#+end_src
