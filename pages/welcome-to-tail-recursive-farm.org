@@ -1,0 +1,21 @@
+#+BEGIN_COMMENT
+.. title: Welcome to Tail Recursive Farm!
+.. slug: welcome-to-tail-recursive-farm
+.. date: 2021-04-20 23:49:47 UTC-07:00
+.. tags:
+.. category:
+.. link:
+.. description: Introduction to the Tail Recursive Farm
+.. type: text
+
+#+END_COMMENT
+
+* Welcome to Tail Recursive Farm
+
+We're just getting started so nothing to show just yet. But! Some goals include converting the ~3 acres of pasture to silvopasture, putting ruminants (likely sheep) and fowl (likely chickens) into the silvopasture system, and growing enough food for our family of 4 + our local community.
+
+We'll begin in earnest in July with observing the farm and beginning to plan.
+
+We hope to blog about progress and setbacks, as well as develop resource pages for the different parts of the farm as they're developed.
+
+Thanks for stopping by!
