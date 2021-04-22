@@ -1,0 +1,16 @@
+#+BEGIN_COMMENT
+.. title: Resources
+.. slug: index
+.. date: 2021-04-20 23:49:47 UTC-07:00
+.. tags:
+.. category:
+.. link:
+.. description: Resources for learning
+.. type: text
+
+#+END_COMMENT
+The Resources page is here to catalogue books, articles, and videos that have been helpful to read or watch.
+
+* Soil Health
+** [[https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.17306][Crop diversity enriches arbuscular mycorrhizal fungal communities in an intensive agricultural landscape]]
+Paper showing the effect of polyculture cropping (compared to monoculture) on Arbuscular mycorrhizal fungi (AMF) populations.
