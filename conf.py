@@ -141,9 +141,13 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/", "Home"),
+        ((("/about/about-tail-recursive-farm", "What is Tail Recursive"),)
+         ,"About"),
+        ("/resources", "Resources"),
         ((("/blog", "Most Recent"),
-          ("/blog/arhicve.html", "Archive")), "Blog"),
-        ),
+          ("/blog/archive", "Archive"))
+         ,"Blog"),
+    ),
 }
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
@@ -246,6 +250,7 @@ PAGES = (
     ("pages/*.txt",  "", "page.tmpl"),
     ("pages/*.html", "", "page.tmpl"),
     ("pages/*.org",  "", "page.tmpl"),
+    ("pages/*/*.org",  "", "page.tmpl"),
 )
 
 
