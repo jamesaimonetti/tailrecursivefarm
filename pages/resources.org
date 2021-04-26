@@ -1,6 +1,6 @@
 #+BEGIN_COMMENT
 .. title: Resources
-.. slug: index
+.. slug: resources
 .. date: 2021-04-20 23:49:47 UTC-07:00
 .. tags:
 .. category:
