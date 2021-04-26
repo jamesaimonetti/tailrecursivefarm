@@ -14,3 +14,15 @@ The Resources page is here to catalogue books, articles, and videos that have be
 * Soil Health
 ** [[https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.17306][Crop diversity enriches arbuscular mycorrhizal fungal communities in an intensive agricultural landscape]]
 Paper showing the effect of polyculture cropping (compared to monoculture) on Arbuscular mycorrhizal fungi (AMF) populations.
+* Equipment
+** Unverified Equipment
+This section is for equipment we're looking at, to see if it fits our needs.
+** Verified Equipment
+Equipment currently in use on the farm
+*** BCS America
+https://www.bcsamerica.com/
+
+Tractor: https://www.bcsamerica.com/product/model-732
+
+** Discarded Equipment
+Equipment used on the farm but ultimately discarded, with reasons why!
