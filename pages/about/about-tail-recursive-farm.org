@@ -1,0 +1,32 @@
+#+BEGIN_COMMENT
+.. title: About Tail Recursive Farm
+.. slug: about-tail-recursive-farm
+.. date: 2021-04-26 13:49:12 UTC-07:00
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+
+#+END_COMMENT
+** What is "Tail Recursive"?
+*** The Simple ELI5 answer
+One of Tail Recursive Farm's goals is the reduction or elimination of "inputs" from off-farm. If accomplished, this allows the farm to be self-sustaining.
+*** The Nerdy, Computery Science answer
+In computer programming, there is a concept of a [[https://en.wikipedia.org/wiki/Tail_call]["tail call"]].
+
+The simplistic explanation of a computer program's execution is that when a function is called in a program, all the information the function needs to do the work are put on a "stack", or a place in memory, and is called a "stack frame". If that function then calls another function, a new stack frame is created for the new function call. When a function finishes, the stack frame is removed and control returned to the calling function. So far so good.
+
+This all works well until the computer runs out of "stack" memory to add frames. So if a function ends up calling a lot of sub-functions (especially in a recursive function)), there is the possibility of "blowing the stack" or running out of memory, causing the program to crash. Because the computer has to "unwind" the stack to return execution to the calling function, all the previous functions' info is stored on the stack as well.
+
+One solution is to write a "tail recursive" version of the function. The underlying mechanics work to then, instead of allocating a new stack frame (and thus increasing the size of the stack), to replace (or reuse) the existing stack frame. The function will now execute in relatively constant memory space and not run the risk of blowing the stack.
+
+When you have a long running program, like a web server, database, or telecom switch, not causing the program to crash because of a looping function is critical. Tail recursion is one way to write these types of programs that can run effectively forever.
+*** How "Tail Recursion" comes alive on our farm
+We hope the systems we put in place (things like hydrology, infrastructure, plant and animal choices, etc) will allow the farm to operate in an increasingly self-contained manner. Some of the typical inputs we want to minimize include:
+
+- Fossil fuels required (or energy derived from fossil fuels)
+- Irrigated water
+- Soil amendments
+
+By being "tail recursive" the farm effectively operates in constant ecological space (not needing off-farm inputs) while also being robust in the face of the changing climate.
