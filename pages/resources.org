@@ -11,6 +11,21 @@
 #+END_COMMENT
 The Resources page is here to catalogue books, articles, and videos that have been helpful to read or watch.
 
+* Eco-region
+Looking at [[http://buildsoil.net/ecoregions/][the map]] to find your eco-region. TRF is in =Marine West Coast Forest= in the Willamette Valley.
+
+** Soil Map
+We like [[https://casoilresource.lawr.ucdavis.edu/gmap/][this soil map]] for getting an idea of what soils you should expect on your property.
+
+TRF soils are:
+1. 89% [[https://soilseries.sc.egov.usda.gov/OSD_Docs/M/MALABON.html][Malabon]]
+   suborder: [[https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/class/maps/?cid=nrcs142p2_053604][Xerolls]]
+   The soils formed in loamy and clayey alluvium from mixed materials. Well drained; slow runoff; moderately slow permeability. These soils have wide use for growing orchard, berry, vegetable, small grain, hay, pasture, and grass seed crops. Natural vegetation is Douglas fir, Oregon white oak, blackberry, Pacific poison-oak, other shrubs, and grasses.
+2. 5% [[https://soilseries.sc.egov.usda.gov/OSD_Docs/M/MCBEE.html][McBee]]
+3. 3% [[https://soilseries.sc.egov.usda.gov/OSD_Docs/W/WALDO.html][Waldo]]
+4. 2% [[https://soilseries.sc.egov.usda.gov/OSD_Docs/C/CHEHALIS.html][Chehalis]]
+5. 1% Riverwash
+
 * Soil Health
 ** [[https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.17306][Crop diversity enriches arbuscular mycorrhizal fungal communities in an intensive agricultural landscape]]
 Paper showing the effect of polyculture cropping (compared to monoculture) on Arbuscular mycorrhizal fungi (AMF) populations.
