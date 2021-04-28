@@ -32,12 +32,17 @@ Paper showing the effect of polyculture cropping (compared to monoculture) on Ar
 * Equipment
 ** Unverified Equipment
 This section is for equipment we're looking at, to see if it fits our needs.
-** Verified Equipment
-Equipment currently in use on the farm
 *** BCS America
 https://www.bcsamerica.com/
 
-Tractor: https://www.bcsamerica.com/product/model-732
+| Equipment        | Price | Link                                             | Use                                            |
+| Tractor: 732     | $3100 | https://www.bcsamerica.com/product/model-732     | Driving implements around the farm             |
+| Flail mower      | $2300 | https://www.bcsamerica.com/product/flail-mower   | Mowing pasture (.5-4" heights)                 |
+| Sub-soiler       | $ 200 | https://www.bcsamerica.com/product/subsoiler     | Keyline ripping (water infiltration            |
+| Tool carrier kit | $ 185 | https://www.bcsamerica.com/product/tool-carriers | Required for some implements (like sub-soiler) |
+
+** Verified Equipment
+Equipment currently in use on the farm
 
 ** Discarded Equipment
 Equipment used on the farm but ultimately discarded, with reasons why!
