@@ -25,7 +25,6 @@ TRF soils are:
 3. 3% [[https://soilseries.sc.egov.usda.gov/OSD_Docs/W/WALDO.html][Waldo]]
 4. 2% [[https://soilseries.sc.egov.usda.gov/OSD_Docs/C/CHEHALIS.html][Chehalis]]
 5. 1% Riverwash
-
 * Soil Health
 ** [[https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.17306][Crop diversity enriches arbuscular mycorrhizal fungal communities in an intensive agricultural landscape]]
 Paper showing the effect of polyculture cropping (compared to monoculture) on Arbuscular mycorrhizal fungi (AMF) populations.
@@ -49,3 +48,8 @@ Equipment currently in use on the farm
 
 ** Discarded Equipment
 Equipment used on the farm but ultimately discarded, with reasons why!
+* Science papers
+** [[https://www.pnas.org/content/114/48/E10301][Nutritional and greenhouse gas impacts of removing animals from US agriculture]]
+TL;DR: Removing animals from agriculture only decreases GHG emissions 2.6% while increasing malnutrition. Focus on the big emitters: Transportation, Industrial processes, and electricity generation.
+
+From the paper: "US agriculture was modeled to determine impacts of removing farmed animals on food supply adequacy and greenhouse gas (GHG) emissions. The modeled system without animals increased total food production (23%), altered foods available for domestic consumption, and decreased agricultural US GHGs (28%), but only reduced total US GHG by 2.6 percentage units. Compared with systems with animals, diets formulated for the US population in the plants-only systems had greater excess of dietary energy and resulted in a greater number of deficiencies in essential nutrients."
