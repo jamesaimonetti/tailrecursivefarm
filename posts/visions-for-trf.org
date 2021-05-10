@@ -1,0 +1,26 @@
+#+BEGIN_COMMENT
+.. title: Visions for TRF
+.. slug: visions-for-trf
+.. date: 2021-05-07 16:58:07 UTC-07:00
+.. tags:
+.. category:
+.. link:
+.. description:
+.. type: text
+
+#+END_COMMENT
+With closing coming up soon (May 20th) but a slightly uncertain possession date (probably early July but...), it has been fun to think about what Tail Recursive Farm could be.
+
+While I tend to get lost in the potential, Christina is much more practical and wanting a plan with concrete steps to getting started. Hopefully we'll find the middle ground to keep a vision that drives use while having a plan to direct next steps to get there!
+
+One aspect of this adventure that we do seem to agree on is using the farm for good within our local community. There are no bootstraps being pulled here. We are in the fortunate position of having a sizable inheritance to use on a down payment; without this the monthly payment would be outside of our financial comfort zone.
+
+Because of this, however, we do not have a pressure to monetize the farm in a meaningful way. If we can generate enough income from it to cover the mortgage, that would be welcome; it is not a goal, however.
+
+I think, right now, we want to establish a "traditional" garden, initially, that can provide for a large portion of our nutritional needs while we setup parts of the pasture into a [[https://foodrevolution.org/blog/food-forests-lyla-june/][food forest]] or [[https://www.silvopasture.org][silvopasture]] setup. The goal being to establish a large base of perennial production for the coming years (decades and centuries) that relies on little to no irrigation.
+
+We know that [[https://www.goodreads.com/book/show/39020.1491][much of the Americas]] were tended by [[https://www.smithsonianmag.com/smart-news/indigenous-peoples-british-columbia-tended-forest-gardens-180977617/][the Indigenous cultures]] that lived there for millennia. Can we use their blueprint to convert the 3 acres of pasture into some semblance of that past? Can we also re-introduce some of the regional staples into our diet, nourishing ourselves and community with food that has proven to grow here?
+
+Can we also start growing food from warmer regions to our south as climate change brings new challenges to what can grow here? Some say our region could resemble [[https://www.opb.org/news/article/oregon-cities-on-path-have-central-valley-climate-in-coming-decades/][California's Central Valley]] over the next 60 years. What does a successional plan look like that plans for that kind of change?
+
+At this point, the benchmark for success will not be dollars or profit generated but community nourished.
