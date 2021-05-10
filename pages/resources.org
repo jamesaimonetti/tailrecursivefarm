@@ -48,8 +48,10 @@ Equipment currently in use on the farm
 
 ** Discarded Equipment
 Equipment used on the farm but ultimately discarded, with reasons why!
-* Science papers
+* Reading list
 ** [[https://www.pnas.org/content/114/48/E10301][Nutritional and greenhouse gas impacts of removing animals from US agriculture]]
 TL;DR: Removing animals from agriculture only decreases GHG emissions 2.6% while increasing malnutrition. Focus on the big emitters: Transportation, Industrial processes, and electricity generation.
 
 From the paper: "US agriculture was modeled to determine impacts of removing farmed animals on food supply adequacy and greenhouse gas (GHG) emissions. The modeled system without animals increased total food production (23%), altered foods available for domestic consumption, and decreased agricultural US GHGs (28%), but only reduced total US GHG by 2.6 percentage units. Compared with systems with animals, diets formulated for the US population in the plants-only systems had greater excess of dietary energy and resulted in a greater number of deficiencies in essential nutrients."
+** [[https://www.hakaimagazine.com/features/thriving-together-salmon-berries-and-people/][Thriving Together: Salmon, Berries, and People]]
+TL;DR: The salmonberry plant has nourished and healed Indigenous communities of the Pacific Northwest coast for countless generations, but its significance goes far beyond its value as food.
