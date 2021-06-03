@@ -34,15 +34,27 @@ Paper showing the effect of polyculture cropping (compared to monoculture) on Ar
 * Equipment
 ** Unverified Equipment
 This section is for equipment we're looking at, to see if it fits our needs.
-*** BCS America
-https://www.bcsamerica.com/
-
+*** Tractors
+[[https://www.bcsamerica.com][BCS America]] walk behind tractor and accessories
 | Equipment        | Price | Link                                             | Use                                            |
 | Tractor: 732     | $3100 | https://www.bcsamerica.com/product/model-732     | Driving implements around the farm             |
 | Flail mower      | $2300 | https://www.bcsamerica.com/product/flail-mower   | Mowing pasture (.5-4" heights)                 |
 | Sub-soiler       | $ 200 | https://www.bcsamerica.com/product/subsoiler     | Keyline ripping (water infiltration            |
 | Tool carrier kit | $ 185 | https://www.bcsamerica.com/product/tool-carriers | Required for some implements (like sub-soiler) |
-
+*** Manual well pumps
+[[https://simplepump.com/][SimplePump]]:
+| Equipment      | Price      | Link                                                           | Use                                     |
+| Deep well pump | $1400-3625 | https://simplepump.com/our-pumps/hand-operated/deep-well-pump/ | Manual pump for wells when power is out |
+[[https://www.bisonpumps.com/][Bison pump]]
+| Equipment      | Price  | Link                                                                         | Use                                     |
+| Deep well pump | ~$1250 | https://www.lehmans.com/product/stainless-steel-deep-well-pump-head?shopping | Manual pump for wells when power is out |
+*** Solar
+[[https://www.abundantsolar.com/][Abundant Solar]]
+These are esimates from [[https://www.abundantsolar.com/solar-incentives/pacific-power-residential-solar-electric-incentives/][here]]:
+| Power output | Price    |
+|  4,200 Watt  | ~$ 9,400 |
+|  7,200 Watt  | ~$12,800 |
+| 10,000 Watt  | ~$17,300 |
 ** Verified Equipment
 Equipment currently in use on the farm
 
