@@ -1,0 +1,20 @@
+#+BEGIN_COMMENT
+.. title: Similarity in Water For Any Farm and Erlang
+.. slug: similarity-in-wfaf-and-erlang
+.. date: 2021-06-08 22:13:51 UTC-07:00
+.. tags:
+.. category:
+.. link:
+.. description: Design philosophy overlaps in Erlang and Water for Any Farm
+.. type: text
+
+#+END_COMMENT
+I'm making my way through [[http://www.restorationag.com/product/water-for-any-farm-2/][Water For Any Farm]] and had a nice moment of déjà vu.
+
+When I started programming in [[https://www.erlang.org/][Erlang]] I loved how my mind got bent by the "Let It Crash" philosophy. The basic idea is that, rather than programming defensively and trying to account for all possible errors, write the "[[https://en.wikipedia.org/wiki/Happy_path][happy path]]" code and handle errors at a higher level. This technique can greatly simplify the code that "does the work" while error handling can be delegated to other areas of the program (read more about [[https://ferd.ca/the-zen-of-erlang.html][The Zen of Erlang]]).
+
+In WFAF, Mark Shepard shows the limits of the [[https://en.wikipedia.org/wiki/Keyline_design][Keyline design]] when it comes to landscapes that have "abnormal" features. In fact, Shepard says, "abnormal" features are the norm! And we should design around that fact!
+
+"Let it crash" is similarly opinionated: things will crash, whether it is invalid data from the outside world, 3rd party services failing in unexpected ways, hitting timeouts that should never be hit, or any number of unanticipated or undocumented errors. When you embrace "Let it crash" and design programs around the fact that things will fail, the resulting code is often structured in significantly different ways compared to "traditional" structures.
+
+At Tail Recursive Farm, we aim to shape our systems to the land (and how water interacts with it) versus imposing our systems onto the land (as industrial agriculture might). We can't beat the Earth into submission; [[https://www.instagram.com/p/CP36JOdH6gE/][We are Earth. We wake up as Earth. We eat Earth. We breathe Earth. All we know is Earth.]] All of our systems and processes we put in place will be rooted in this fact.
