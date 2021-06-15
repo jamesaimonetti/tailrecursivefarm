@@ -13,8 +13,7 @@ The Resources page is here to catalogue books, articles, and videos that have be
 
 * Eco-region
 Looking at [[http://buildsoil.net/ecoregions/][the map]] to find your eco-region. TRF is in =Marine West Coast Forest= in the Willamette Valley.
-
-** Soil Map
+** Soil
 We like [[https://casoilresource.lawr.ucdavis.edu/gmap/][this soil map]] for getting an idea of what soils you should expect on your property.
 
 TRF soils are:
@@ -25,6 +24,16 @@ TRF soils are:
 3. 3% [[https://soilseries.sc.egov.usda.gov/OSD_Docs/W/WALDO.html][Waldo]]
 4. 2% [[https://soilseries.sc.egov.usda.gov/OSD_Docs/C/CHEHALIS.html][Chehalis]]
 5. 1% Riverwash
+** Water
+[[https://apps.wrd.state.or.us/apps/wr/wr_drought/current_updates.aspx][- OR State Drought Conditions]]
+- [[https://www.nrcs.usda.gov/wps/portal/nrcs/main/or/water/resources/][Hydrologic Unit Code (HUC) watersheds]] - [[https://www.nrcs.usda.gov/wps/PA_NRCSConsumption/download?cid=nrcseprd1482458&ext=pdf][HUC 17090003 (PDF)]]
+  - Average percipiatation: 39"-45"
+  - The temperature regime is [[http://www.css.cornell.edu/faculty/dgr2/_static/legacy_sw/nsm/nsm_STR.html][mesic (mean annual soil temperature is 8° C or higher but lower than 15° C)]] and the moisture regime is [[http://www.css.cornell.edu/faculty/dgr2/_static/legacy_sw/nsm/nsm_SMR.html#h3_25][xeric (Mediterranean climates, where winters are moist and cool and summers are warm and dry)]].
+- [[https://water.usgs.gov/lookup/getwatershed?17090003/www/cgi-bin/lookup/getwatershed][More USGS Watershed info]]
+- [[https://mywaterway.epa.gov/community/170900030611/overview][TRF Watershed area]]
+- [[https://www.waterqualitydata.us/provider/STORET/OREGONDEQ/OREGONDEQ-15415-ORDEQ/][Nearest monitored well]]
+- Good breakdown of groundwater, aquifers, and wells [[https://pubs.usgs.gov/gip/gw_ruralhomeowner/][here]]. [[https://www.oregon.gov/OWRD/WRDPublications1/Well_Water_Handbook.pdf][Oregon well water handbook (PDF)]]
+
 * Soil Health
 ** [[https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.17306][Crop diversity enriches arbuscular mycorrhizal fungal communities in an intensive agricultural landscape]]
 Paper showing the effect of polyculture cropping (compared to monoculture) on Arbuscular mycorrhizal fungi (AMF) populations.
