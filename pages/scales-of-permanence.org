@@ -1,0 +1,53 @@
+#+BEGIN_COMMENT
+.. title: Scales of Permanence
+.. slug: scales-of-permanence
+.. date: 2021-06-15 05:10:00 UTC
+.. tags:
+.. category:
+.. link:
+.. description: Scales of Permanence
+.. type: text
+
+#+END_COMMENT
+In keyline systems, there are 8 factors to consider, in decreasing level of permanence
+
+0. Climate
+1. Landshape
+2. Water Supply
+3. Roads/Access
+4. Trees
+5. Structures
+6. Subdivision Fences
+7. Soil
+
+The [[http://www.regrarians.org/regrarians-handbook/][Regrarians Handbook]] expands this to 10, which we'll use as a lens to look at TRF:
+
+** Climate
+"Both Human and biospheric" - what's going on in the minds of people in addition to the typical physical climate markers.
+
+** Geography
+Landscape analysis. The "context" you'll often hear when describing what tools make sense. Mark Shepard has much to say about wanting "dodads" like cob ovens, which are inappropriate when you context is wet winters.
+
+** Water
+"Water availability is fixed" - given our "context", what are the most effective ways to capture all the water and keep it on our land and in our soil, using it effectively?
+
+** Access
+Roads (for equipment, harvesters, etc), lanes (such as for alley cropping) for machines, etc. Good design can aid water capture and retention.
+
+** Forestry
+How to incorporate trees and herbaceous plants into the environment. Perennials capture more sun, drive deeper roots to access deeply held nutrients, provide deeper infiltration of water, provide food and materials, and more.
+
+** Buildings
+When considered in "context", can increase water capture, microclimates, minimize energy use.
+
+** Fencing
+More flexible fencing allows better integration into the whole.
+
+** Soils
+Building soil top-down (via sub-soiling converting lower levels into soil, and bottom-up using mulches, compost, etc. Better soils hold more water and provide plants with better abilities to be disease and stress-tolerant, and providing nutrient-dense food.
+
+** Economy
+How to interact with the market(s) and access to those, as necessary.
+
+** Energy
+Wise photon capture and use; minimzing fossil fuel needs.

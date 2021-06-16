@@ -144,6 +144,7 @@ NAVIGATION_LINKS = {
         ((("/about/about-tail-recursive-farm", "What is Tail Recursive"),)
          ,"About"),
         ("/resources", "Resources"),
+        ("/scales-of-permanence", "Scales Of Permanence"),
         ((("/blog", "Most Recent"),
           ("/archive.html", "Archive"))
          ,"Blog"),
