@@ -38,6 +38,7 @@ TRF soils are:
 - [[https://mywaterway.epa.gov/community/170900030611/overview][TRF Watershed area]]
 - [[https://www.waterqualitydata.us/provider/STORET/OREGONDEQ/OREGONDEQ-15415-ORDEQ/][Nearest monitored well]]
 - Good breakdown of groundwater, aquifers, and wells [[https://pubs.usgs.gov/gip/gw_ruralhomeowner/][here]]. [[https://www.oregon.gov/OWRD/WRDPublications1/Well_Water_Handbook.pdf][Oregon well water handbook (PDF)]]
+- [[https://wellwater.oregonstate.edu/][OSU - Well Water]]
 ** Weather
 EQECAT - insurance brokers
 * Calendar
@@ -48,7 +49,10 @@ https://empressofdirt.net/plant-cuttings-calendar/
 Paper showing the effect of polyculture cropping (compared to monoculture) on Arbuscular mycorrhizal fungi (AMF) populations.
 ** Compost
 *** Humanure
-[[https://weblife.org/humanure/pdf/humanure_handbook_third_edition.pdf][The Humanure Handbook]] (PDF link)
+[[https://weblife.org/humanure/pdf/humanure_handbook_third_edition.pdf][- The Humanure Handbook (PDF)]]
+*** Chicken Manure
+- [[https://www.extension.uidaho.edu/publishing/pdf/CIS/CIS1194.pdf][Composting and using backyard poulty water (PDF)]]
+
 * Equipment
 ** Unverified Equipment
 This section is for equipment we're looking at, to see if it fits our needs.
