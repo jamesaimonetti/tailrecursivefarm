@@ -13,7 +13,12 @@ The Resources page is here to catalogue books, articles, and videos that have be
 
 * Eco-region
 Looking at [[http://buildsoil.net/ecoregions/][the map]] to find your eco-region. TRF is in =Marine West Coast Forest= in the Willamette Valley.
-** Soil
+* Soil
+** Ecosystem
+natural plant community
+Terrestrial, Palustrine, Estuarine community types
+"The eyes of the future are looking back at us and praying we see beyond our own time" ~ Terry Tempest Williams
+** Soil Map
 We like [[https://casoilresource.lawr.ucdavis.edu/gmap/][this soil map]] for getting an idea of what soils you should expect on your property.
 
 TRF soils are:
@@ -33,7 +38,11 @@ TRF soils are:
 - [[https://mywaterway.epa.gov/community/170900030611/overview][TRF Watershed area]]
 - [[https://www.waterqualitydata.us/provider/STORET/OREGONDEQ/OREGONDEQ-15415-ORDEQ/][Nearest monitored well]]
 - Good breakdown of groundwater, aquifers, and wells [[https://pubs.usgs.gov/gip/gw_ruralhomeowner/][here]]. [[https://www.oregon.gov/OWRD/WRDPublications1/Well_Water_Handbook.pdf][Oregon well water handbook (PDF)]]
-
+** Weather
+EQECAT - insurance brokers
+* Calendar
+** Plant cuttings
+https://empressofdirt.net/plant-cuttings-calendar/
 * Soil Health
 ** [[https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.17306][Crop diversity enriches arbuscular mycorrhizal fungal communities in an intensive agricultural landscape]]
 Paper showing the effect of polyculture cropping (compared to monoculture) on Arbuscular mycorrhizal fungi (AMF) populations.
@@ -78,3 +87,11 @@ From the paper: "US agriculture was modeled to determine impacts of removing far
 TL;DR: The salmonberry plant has nourished and healed Indigenous communities of the Pacific Northwest coast for countless generations, but its significance goes far beyond its value as food.
 ** [[https://thecounter.org/regenerative-agriculture-racial-equity-climate-change-carbon-farming-environmental-issues/][Regenerative agriculture needs a reckoning]]
 TL;DR: Why avoiding uncomfortable conversations about equity, race, and access threatens to spoil a nascent movement’s environmental promise.
+* Forage/Freecycle
+Rooster.co (OR, CA, TX)
+Craigslist
+FB
+FreeCycle.org
+
+GRIN = https://www.ars-grin.gov/
+gov't seed banks
