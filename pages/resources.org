@@ -39,6 +39,13 @@ TRF soils are:
 - [[https://www.waterqualitydata.us/provider/STORET/OREGONDEQ/OREGONDEQ-15415-ORDEQ/][Nearest monitored well]]
 - Good breakdown of groundwater, aquifers, and wells [[https://pubs.usgs.gov/gip/gw_ruralhomeowner/][here]]. [[https://www.oregon.gov/OWRD/WRDPublications1/Well_Water_Handbook.pdf][Oregon well water handbook (PDF)]]
 - [[https://wellwater.oregonstate.edu/][OSU - Well Water]]
+*** Treating well water
+Treating this on an individual-house basis is pretty straightforward:
+Use an oilless compressor feeding an air stone in the bottom of the well.
+Bubbles a bit of air up through the water column. That oxidizes the iron and sulfur and drops it out. Eventually the iron buildup plugs up the bottom of the well, and then you blow the well clean about every 7 years or so.
+Follow that up with a water softener to take out the residual iron and manganese, as well as calcium hardness, and you end up with good tasting, clear soft water.
+Ground water quality usually gets worse in the summer; more draw on the system, less flow into the aquifer.
+
 ** Weather
 EQECAT - insurance brokers
 * Calendar
