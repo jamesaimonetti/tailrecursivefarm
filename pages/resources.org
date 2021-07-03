@@ -59,6 +59,16 @@ Paper showing the effect of polyculture cropping (compared to monoculture) on Ar
 [[https://weblife.org/humanure/pdf/humanure_handbook_third_edition.pdf][- The Humanure Handbook (PDF)]]
 *** Chicken Manure
 - [[https://www.extension.uidaho.edu/publishing/pdf/CIS/CIS1194.pdf][Composting and using backyard poulty water (PDF)]]
+*** Compost Heat
+[[https://smallfarms.cornell.edu/2012/10/compost-power/][Compost Power]]
+[[https://www.youtube.com/watch?v=cvMi6hgfcnw][Compost Heat Recovery]]
+Compost-powered Water heater - Gaelan Brown
+
+High piles, soaked, have chimney effect to pull air up through to keep it warm.
+PFRP - 132F for a week to kill off pathogens and weed seeds
+[[argilabtech.com][Agrilab Technologies]] - Isobar products
+PEX tubing for radiant floor heating
+4-10 cft/min per ton for negative air flow
 
 * Equipment
 ** Unverified Equipment
@@ -106,3 +116,5 @@ FreeCycle.org
 
 GRIN = https://www.ars-grin.gov/
 gov't seed banks
+* Tech
+https://purelymail.com/
