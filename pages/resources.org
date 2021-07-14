@@ -45,7 +45,6 @@ Use an oilless compressor feeding an air stone in the bottom of the well.
 Bubbles a bit of air up through the water column. That oxidizes the iron and sulfur and drops it out. Eventually the iron buildup plugs up the bottom of the well, and then you blow the well clean about every 7 years or so.
 Follow that up with a water softener to take out the residual iron and manganese, as well as calcium hardness, and you end up with good tasting, clear soft water.
 Ground water quality usually gets worse in the summer; more draw on the system, less flow into the aquifer.
-
 ** Weather
 EQECAT - insurance brokers
 * Calendar
@@ -66,7 +65,7 @@ Compost-powered Water heater - Gaelan Brown
 
 High piles, soaked, have chimney effect to pull air up through to keep it warm.
 PFRP - 132F for a week to kill off pathogens and weed seeds
-[[argilabtech.com][Agrilab Technologies]] - Isobar products
+[[https://agrilabtech.com/][Agrilab Technologies]] - Isobar products
 PEX tubing for radiant floor heating
 4-10 cft/min per ton for negative air flow
 
